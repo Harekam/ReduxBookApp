@@ -1,18 +1,19 @@
 export default function () {
     return [{
-            title: "JS"
+            title: 'java-script: The Good Parts',
+            pages: 101
         },
         {
-            title: "JS1"
+            title: 'Harry Potter',
+            pages: 39
         },
         {
-            title: "JS2"
+            title: 'The Dark Tower',
+            pages: 85
         },
         {
-            title: "JS3"
-        },
-        {
-            title: "JS4"
+            title: 'Eloquent Ruby',
+            pages: 1
         }
-    ];
+    ]
 }
